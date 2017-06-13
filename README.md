@@ -1,3 +1,8 @@
+To bake Open Gapps into your Android TV build all the folling include to your device.mk
+---
+Leanback Gapps
+$(call inherit-product, 3rdparty/google/gms-apps/tv/gms.mk)
+-----
 Open GApps installable zip exception
 
 This Open GApps GPLv3 licensed scripts exception ("Exception") is an additional permission under section 7 of the GNU General Public License, version 3 ("GPLv3").
