@@ -22,9 +22,6 @@ PRODUCT_PACKAGES += \
     Tubesky \
     PlayGames \
     PrebuiltGmsCorePano \
-    SecondScreenSetup \
-    SecondScreenSetupAuthBridge \
-    SetupWraith \
     talkback \
     TV \
     VideosPano \
